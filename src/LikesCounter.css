@@ -1,0 +1,15 @@
+
+.div-container{
+    padding: 10px;
+} 
+
+
+.div-container button{
+    border:3px black groove;
+    height:30px;
+    width:80px;
+    margin-left:10px;
+    background-color: red ;
+    font-size: 20px;
+}
+
